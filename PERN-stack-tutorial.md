@@ -1,6 +1,6 @@
-#Setting up a PERN stack web server on Fedora
+# Setting up a PERN stack web server on Fedora
 
-#install needed softwares
+# install needed softwares
 
 ## PostgreSQL
 $ sudo dnf install postgresql postgresql-server
